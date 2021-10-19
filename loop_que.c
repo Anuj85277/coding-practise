@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int i=0;
+    for(i=100;i<=200;++i)
+    {
+        printf("%d\n",i);n 
+    }
+	
+	return 0;
+}
+
